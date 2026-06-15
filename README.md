@@ -82,7 +82,7 @@ Set `VITE_API_BASE_URL` in `.env` to point at the backend
 ## Key documents
 
 - `SCOPE.md` — every anomaly found in `expenses_export.csv`, how it's
-  handled, and the database schema
+  handled, and the datbase schema
 - `DECISIONS.md` — decision log: options considered and why
 - `AI_USAGE.md` — AI prompts used and where AI output was wrong/corrected
 
